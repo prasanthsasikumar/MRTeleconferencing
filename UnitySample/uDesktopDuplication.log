@@ -1,0 +1,1174 @@
+[uDD::Log][2020-05-21 17:26:27] Start
+[uDD::Log][2020-05-21 17:26:27] OS Version    : 10.0
+[uDD::Log][2020-05-21 17:26:27] Build Number  : 18363
+[uDD::Log][2020-05-21 17:26:27] Service Pack  : 
+[uDD::Log][2020-05-21 17:26:27] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 17:26:27]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 17:26:27]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 17:26:27] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 17:26:27] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 17:26:27]     ID    : 0
+[uDD::Log][2020-05-21 17:26:27]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 17:26:27]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 17:26:27]     Rot   : Landscape
+[uDD::Log][2020-05-21 17:26:27] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-21 17:26:27] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 17:26:27]     ID    : 1
+[uDD::Log][2020-05-21 17:26:27]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 17:26:27]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 17:26:27]     Rot   : Portrait (flipped)
+[uDD::Log][2020-05-21 17:26:28] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-21 19:05:52] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Log][2020-05-21 19:05:52] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Err][2020-05-21 19:05:52] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Err][2020-05-21 19:05:52] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Log][2020-05-21 19:05:53] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:53] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:53]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:53]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:53] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:53] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:53]     ID    : 0
+[uDD::Log][2020-05-21 19:05:53]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:53]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:53]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:53] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:53] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:53]     ID    : 1
+[uDD::Log][2020-05-21 19:05:53]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:53]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:53]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:53] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:54] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:54] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:54]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:54]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:54] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:54] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:54]     ID    : 0
+[uDD::Log][2020-05-21 19:05:54]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:54]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:54]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:54] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:54] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:54]     ID    : 1
+[uDD::Log][2020-05-21 19:05:54]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:54]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:54]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:54] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:55] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:55] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:55]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:55]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:55] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:55]     ID    : 0
+[uDD::Log][2020-05-21 19:05:55]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:55]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:55]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:55]     ID    : 1
+[uDD::Log][2020-05-21 19:05:55]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:55]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:55]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:56] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:56] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:56]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:56]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:56] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:56]     ID    : 0
+[uDD::Log][2020-05-21 19:05:56]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:56]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:56]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:56]     ID    : 1
+[uDD::Log][2020-05-21 19:05:56]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:56]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:56]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:57] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:57] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:57]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:57]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:57] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:57]     ID    : 0
+[uDD::Log][2020-05-21 19:05:57]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:57]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:57]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:57] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:57]     ID    : 1
+[uDD::Log][2020-05-21 19:05:57]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:57]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:57]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:57] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:58] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:58] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:58]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:58]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:58] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:58] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:58]     ID    : 0
+[uDD::Log][2020-05-21 19:05:58]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:58]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:58]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:58] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:58] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:58]     ID    : 1
+[uDD::Log][2020-05-21 19:05:58]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:58]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:58]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:58] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:59] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:05:59] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:05:59]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:05:59]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:05:59] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:05:59] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:59]     ID    : 0
+[uDD::Log][2020-05-21 19:05:59]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:05:59]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:05:59]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:05:59] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:05:59] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:05:59]     ID    : 1
+[uDD::Log][2020-05-21 19:05:59]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:05:59]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:05:59]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:05:59] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:00] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:00] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:00]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:00]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:00] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:00] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:00]     ID    : 0
+[uDD::Log][2020-05-21 19:06:00]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:00]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:00]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:00] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:00] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:00]     ID    : 1
+[uDD::Log][2020-05-21 19:06:00]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:00]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:00]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:00] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:01] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:01] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:01]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:01]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:01] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:01] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:01]     ID    : 0
+[uDD::Log][2020-05-21 19:06:01]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:01]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:01]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:01] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:01] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:01]     ID    : 1
+[uDD::Log][2020-05-21 19:06:01]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:01]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:01]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:01] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:02] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:02] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:02]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:02]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:02] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:02] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:02]     ID    : 0
+[uDD::Log][2020-05-21 19:06:02]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:02]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:02]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:02] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:02] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:02]     ID    : 1
+[uDD::Log][2020-05-21 19:06:02]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:02]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:02]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:02] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:03] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:03] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:03]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:03]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:03] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:03] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:03]     ID    : 0
+[uDD::Log][2020-05-21 19:06:03]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:03]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:03]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:03] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:03] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:03]     ID    : 1
+[uDD::Log][2020-05-21 19:06:03]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:03]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:03]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:03] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:04] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:04] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:04]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:04]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:04] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:04] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:04]     ID    : 0
+[uDD::Log][2020-05-21 19:06:04]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:04]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:04]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:04] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:04] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:04]     ID    : 1
+[uDD::Log][2020-05-21 19:06:04]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:04]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:04]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:04] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:06] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:06] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:06]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:06]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:06] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:06] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:06]     ID    : 0
+[uDD::Log][2020-05-21 19:06:06]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:06]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:06]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:06] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:06] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:06]     ID    : 1
+[uDD::Log][2020-05-21 19:06:06]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:06]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:06]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:06] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:07] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:07] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:07]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:07]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:07] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:07] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:07]     ID    : 0
+[uDD::Log][2020-05-21 19:06:07]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:07]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:07]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:07] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:07] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:07]     ID    : 1
+[uDD::Log][2020-05-21 19:06:07]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:07]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:07]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:07] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:08] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:08] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:08]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:08]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:08] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:08] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:08]     ID    : 0
+[uDD::Log][2020-05-21 19:06:08]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:08]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:08]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:08] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:08] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:08]     ID    : 1
+[uDD::Log][2020-05-21 19:06:08]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:08]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:08]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:08] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:09] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:09] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:09]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:09]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:09] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:09] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:09]     ID    : 0
+[uDD::Log][2020-05-21 19:06:09]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:09]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:09]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:09] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:09] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:09]     ID    : 1
+[uDD::Log][2020-05-21 19:06:09]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:09]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:09]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:09] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:10] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:10] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:10]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:10]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:10] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:10] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:10]     ID    : 0
+[uDD::Log][2020-05-21 19:06:10]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:10]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:10]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:10] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:10] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:10]     ID    : 1
+[uDD::Log][2020-05-21 19:06:10]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:10]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:10]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:10] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:11] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:11] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:11]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:11]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:11] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:11] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:11]     ID    : 0
+[uDD::Log][2020-05-21 19:06:11]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:11]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:11]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:11] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:11] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:11]     ID    : 1
+[uDD::Log][2020-05-21 19:06:11]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:11]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:11]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:11] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:12] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:12] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:12]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:12]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:12] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:12] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:12]     ID    : 0
+[uDD::Log][2020-05-21 19:06:12]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:12]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:12]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:12] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:12] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:12]     ID    : 1
+[uDD::Log][2020-05-21 19:06:12]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:12]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:12]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:12] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:13] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:13] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:13]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:13]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:13] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:13] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:13]     ID    : 0
+[uDD::Log][2020-05-21 19:06:13]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:13]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:13]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:13] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:13] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:13]     ID    : 1
+[uDD::Log][2020-05-21 19:06:13]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:13]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:13]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:13] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:14] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:14] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:14]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:14]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:14] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:14] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:14]     ID    : 0
+[uDD::Log][2020-05-21 19:06:14]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:14]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:14]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:14] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:14] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:14]     ID    : 1
+[uDD::Log][2020-05-21 19:06:14]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:14]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:14]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:14] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:15] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:15] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:15]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:15]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:15] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:15] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:15]     ID    : 0
+[uDD::Log][2020-05-21 19:06:15]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:15]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:15]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:15] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:15] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:15]     ID    : 1
+[uDD::Log][2020-05-21 19:06:15]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:15]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:15]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:15] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:16] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:16] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:16]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:16]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:16] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:16] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:16]     ID    : 0
+[uDD::Log][2020-05-21 19:06:16]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:16]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:16]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:16] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:16] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:16]     ID    : 1
+[uDD::Log][2020-05-21 19:06:16]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:16]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:16]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:16] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:17] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:17] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:17]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:17]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:17] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:17] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:17]     ID    : 0
+[uDD::Log][2020-05-21 19:06:17]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:17]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:17]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:17] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:17] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:17]     ID    : 1
+[uDD::Log][2020-05-21 19:06:17]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:17]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:17]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:17] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:18] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:18] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:18]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:18]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:18] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:18] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:18]     ID    : 0
+[uDD::Log][2020-05-21 19:06:18]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:18]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:18]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:18] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:18] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:18]     ID    : 1
+[uDD::Log][2020-05-21 19:06:18]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:18]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:18]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:18] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:19] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:19] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:19]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:19]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:19] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:19] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:19]     ID    : 0
+[uDD::Log][2020-05-21 19:06:19]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:19]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:19]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:19] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:19] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:19]     ID    : 1
+[uDD::Log][2020-05-21 19:06:19]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:19]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:19]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:19] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:20] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:20] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:20]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:20]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:20] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:20] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:20]     ID    : 0
+[uDD::Log][2020-05-21 19:06:20]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:20]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:20]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:21] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:21] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:21]     ID    : 1
+[uDD::Log][2020-05-21 19:06:21]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:21]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:21]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:21] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:22] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:22] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:22]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:22]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:22] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:22] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:22]     ID    : 0
+[uDD::Log][2020-05-21 19:06:22]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:22]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:22]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:22] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:22] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:22]     ID    : 1
+[uDD::Log][2020-05-21 19:06:22]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:22]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:22]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:22] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:23] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:23] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:23]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:23]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:23] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:23] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:23]     ID    : 0
+[uDD::Log][2020-05-21 19:06:23]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:23]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:23]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:23] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:23] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:23]     ID    : 1
+[uDD::Log][2020-05-21 19:06:23]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:23]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:23]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:23] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:24] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:24] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:24]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:24]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:24] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:24] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:24]     ID    : 0
+[uDD::Log][2020-05-21 19:06:24]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:24]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:24]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:24] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:24] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:24]     ID    : 1
+[uDD::Log][2020-05-21 19:06:24]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:24]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:24]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:24] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:25] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:25] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:25]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:25]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:25] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:25] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:25]     ID    : 0
+[uDD::Log][2020-05-21 19:06:25]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:25]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:25]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:25] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:25] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:25]     ID    : 1
+[uDD::Log][2020-05-21 19:06:25]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:25]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:25]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:25] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:26] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:26] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:26]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:26]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:26] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:26] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:26]     ID    : 0
+[uDD::Log][2020-05-21 19:06:26]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:26]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:26]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:26] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:26] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:26]     ID    : 1
+[uDD::Log][2020-05-21 19:06:26]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:26]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:26]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:26] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:27] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:27] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:27]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:27]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:27] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:27] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:27]     ID    : 0
+[uDD::Log][2020-05-21 19:06:27]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:27]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:27]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:27] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:27] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:27]     ID    : 1
+[uDD::Log][2020-05-21 19:06:27]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:27]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:27]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:27] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:28] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:28] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:28]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:28]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:28] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:28] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:28]     ID    : 0
+[uDD::Log][2020-05-21 19:06:28]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:28]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:28]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:28] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:28] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:28]     ID    : 1
+[uDD::Log][2020-05-21 19:06:28]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:28]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:28]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:28] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:29] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:29] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:29]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:29]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:29] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:29] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:29]     ID    : 0
+[uDD::Log][2020-05-21 19:06:29]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:29]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:29]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:29] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:29] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:29]     ID    : 1
+[uDD::Log][2020-05-21 19:06:29]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:29]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:29]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:29] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:30] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:30] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:30]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:30]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:30] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:30] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:30]     ID    : 0
+[uDD::Log][2020-05-21 19:06:30]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:30]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:30]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:30] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:30] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:30]     ID    : 1
+[uDD::Log][2020-05-21 19:06:30]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:30]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:30]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:30] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:31] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:31] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:31]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:31]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:31] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:31] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:31]     ID    : 0
+[uDD::Log][2020-05-21 19:06:31]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:31]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:31]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:31] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:31] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:31]     ID    : 1
+[uDD::Log][2020-05-21 19:06:31]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:31]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:31]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:31] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:32] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:32] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:32]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:32]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:32] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:32] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:32]     ID    : 0
+[uDD::Log][2020-05-21 19:06:32]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:32]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:32]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:32] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:32] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:32]     ID    : 1
+[uDD::Log][2020-05-21 19:06:32]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:32]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:32]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:32] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:33] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:33] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:33]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:33]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:33] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:33] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:33]     ID    : 0
+[uDD::Log][2020-05-21 19:06:33]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:33]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:33]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:33] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:33] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:33]     ID    : 1
+[uDD::Log][2020-05-21 19:06:33]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:33]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:33]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:33] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:34] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:34] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:34]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:34]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:34] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:34] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:34]     ID    : 0
+[uDD::Log][2020-05-21 19:06:34]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:34]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:34]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:34] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:34] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:34]     ID    : 1
+[uDD::Log][2020-05-21 19:06:34]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:34]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:34]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:34] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:35] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:35] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:35]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:35]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:35] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:35] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:35]     ID    : 0
+[uDD::Log][2020-05-21 19:06:35]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:35]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:35]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:35] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:35] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:35]     ID    : 1
+[uDD::Log][2020-05-21 19:06:35]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:35]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:35]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:35] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:36] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:36] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:36]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:36]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:36] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:36] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:36]     ID    : 0
+[uDD::Log][2020-05-21 19:06:36]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:36]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:36]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:36] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:36] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:36]     ID    : 1
+[uDD::Log][2020-05-21 19:06:36]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:36]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:36]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:36] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:38] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:38] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:38]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:38]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:38] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:38] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:38]     ID    : 0
+[uDD::Log][2020-05-21 19:06:38]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:38]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:38]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:38] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:38] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:38]     ID    : 1
+[uDD::Log][2020-05-21 19:06:38]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:38]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:38]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:38] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:39] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:39] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:39]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:39]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:39] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:39] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:39]     ID    : 0
+[uDD::Log][2020-05-21 19:06:39]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:39]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:39]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:39] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:39] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:39]     ID    : 1
+[uDD::Log][2020-05-21 19:06:39]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:39]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:39]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:39] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:40] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:40] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:40]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:40]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:40] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:40] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:40]     ID    : 0
+[uDD::Log][2020-05-21 19:06:40]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:40]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:40]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:40] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:40] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:40]     ID    : 1
+[uDD::Log][2020-05-21 19:06:40]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:40]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:40]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:40] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:41] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:41] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:41]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:41]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:41] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:41] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:41]     ID    : 0
+[uDD::Log][2020-05-21 19:06:41]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:41]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:41]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:41] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:41] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:41]     ID    : 1
+[uDD::Log][2020-05-21 19:06:41]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:41]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:41]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:41] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:42] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:42] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:42]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:42]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:42] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:42] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:42]     ID    : 0
+[uDD::Log][2020-05-21 19:06:42]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:42]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:42]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:42] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:42] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:42]     ID    : 1
+[uDD::Log][2020-05-21 19:06:42]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:42]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:42]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:42] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:43] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:43] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:43]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:43]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:43] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:43] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:43]     ID    : 0
+[uDD::Log][2020-05-21 19:06:43]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:43]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:43]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:43] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:43] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:43]     ID    : 1
+[uDD::Log][2020-05-21 19:06:43]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:43]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:43]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:43] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:44] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:44] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:44]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:44]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:44] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:44] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:44]     ID    : 0
+[uDD::Log][2020-05-21 19:06:44]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:44]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:44]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:44] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:44] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:44]     ID    : 1
+[uDD::Log][2020-05-21 19:06:44]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:44]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:44]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:44] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:45] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:45] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:45]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:45]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:45] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:45] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:45]     ID    : 0
+[uDD::Log][2020-05-21 19:06:45]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:45]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:45]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:45] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:45] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:45]     ID    : 1
+[uDD::Log][2020-05-21 19:06:45]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:45]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:45]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:45] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:46] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:46] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:46]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:46]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:46] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:46] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:46]     ID    : 0
+[uDD::Log][2020-05-21 19:06:46]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:46]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:46]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:46] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:46] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:46]     ID    : 1
+[uDD::Log][2020-05-21 19:06:46]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:46]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:46]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:46] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:47] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:47] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:47]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:47]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:47] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:47] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:47]     ID    : 0
+[uDD::Log][2020-05-21 19:06:47]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:47]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:47]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:47] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:47] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:47]     ID    : 1
+[uDD::Log][2020-05-21 19:06:47]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:47]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:47]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:47] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:48] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:48] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:48]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:48]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:48] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:48] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:48]     ID    : 0
+[uDD::Log][2020-05-21 19:06:48]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:48]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:48]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:48] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:48] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:48]     ID    : 1
+[uDD::Log][2020-05-21 19:06:48]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:48]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:48]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:48] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:49] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:49] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:49]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:49]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:49] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:49] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:49]     ID    : 0
+[uDD::Log][2020-05-21 19:06:49]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:49]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:49]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:49] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:49] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:49]     ID    : 1
+[uDD::Log][2020-05-21 19:06:49]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:49]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:49]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:49] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:50] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:50] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:50]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:50]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:50] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:50] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:50]     ID    : 0
+[uDD::Log][2020-05-21 19:06:50]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:50]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:50]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:50] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:50] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:50]     ID    : 1
+[uDD::Log][2020-05-21 19:06:50]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:50]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:50]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:51] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:52] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:52] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:52]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:52]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:52] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:52] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:52]     ID    : 0
+[uDD::Log][2020-05-21 19:06:52]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:52]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:52]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:52] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:52] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:52]     ID    : 1
+[uDD::Log][2020-05-21 19:06:52]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:52]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:52]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:52] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:53] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:53] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:53]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:53]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:53] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:53] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:53]     ID    : 0
+[uDD::Log][2020-05-21 19:06:53]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:53]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:53]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:53] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:53] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:53]     ID    : 1
+[uDD::Log][2020-05-21 19:06:53]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:53]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:53]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:53] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:54] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:54] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:54]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:54]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:54] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:54] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:54]     ID    : 0
+[uDD::Log][2020-05-21 19:06:54]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:54]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:54]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:54] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:54] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:54]     ID    : 1
+[uDD::Log][2020-05-21 19:06:54]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:54]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:54]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:54] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:55] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:55] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:55]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:55]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:55] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:55]     ID    : 0
+[uDD::Log][2020-05-21 19:06:55]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:55]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:55]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:55]     ID    : 1
+[uDD::Log][2020-05-21 19:06:55]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:55]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:55]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:56] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:56] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:56]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:56]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:56] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:56]     ID    : 0
+[uDD::Log][2020-05-21 19:06:56]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:56]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:56]     Rot   : Landscape
+[uDD::Err][2020-05-21 19:06:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:56]     ID    : 1
+[uDD::Log][2020-05-21 19:06:56]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:56]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:56]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-21 19:06:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-21 19:06:57] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-21 19:06:57] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-21 19:06:57]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-21 19:06:57]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-21 19:06:57] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-21 19:06:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:57]     ID    : 0
+[uDD::Log][2020-05-21 19:06:57]     Size  : (2560, 1440)
+[uDD::Log][2020-05-21 19:06:57]     DPI   : (108, 108)
+[uDD::Log][2020-05-21 19:06:57]     Rot   : Landscape
+[uDD::Log][2020-05-21 19:06:57] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-21 19:06:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-21 19:06:57]     ID    : 1
+[uDD::Log][2020-05-21 19:06:57]     Size  : (1080, 1920)
+[uDD::Log][2020-05-21 19:06:57]     DPI   : (80, 81)
+[uDD::Log][2020-05-21 19:06:57]     Rot   : Portrait (flipped)
+[uDD::Log][2020-05-21 19:06:57] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-22 12:17:54] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Err][2020-05-22 12:17:54] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Log][2020-05-22 12:17:54] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Err][2020-05-22 12:17:54] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Log][2020-05-22 12:17:55] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:17:55] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:17:55]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:17:55]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:17:55] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:17:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:55]     ID    : 0
+[uDD::Log][2020-05-22 12:17:55]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:17:55]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:17:55]     Rot   : Landscape
+[uDD::Err][2020-05-22 12:17:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:55] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:55]     ID    : 1
+[uDD::Log][2020-05-22 12:17:55]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:17:55]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:17:55]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-22 12:17:55] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:56] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:17:56] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:17:56]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:17:56]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:17:56] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:17:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:56]     ID    : 0
+[uDD::Log][2020-05-22 12:17:56]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:17:56]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:17:56]     Rot   : Landscape
+[uDD::Err][2020-05-22 12:17:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:56] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:56]     ID    : 1
+[uDD::Log][2020-05-22 12:17:56]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:17:56]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:17:56]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-22 12:17:56] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:57] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:17:57] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:17:57]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:17:57]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:17:57] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:17:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:57]     ID    : 0
+[uDD::Log][2020-05-22 12:17:57]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:17:57]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:17:57]     Rot   : Landscape
+[uDD::Err][2020-05-22 12:17:57] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:57] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:57]     ID    : 1
+[uDD::Log][2020-05-22 12:17:57]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:17:57]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:17:57]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-22 12:17:57] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:58] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:17:58] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:17:58]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:17:58]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:17:58] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:17:58] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:58]     ID    : 0
+[uDD::Log][2020-05-22 12:17:58]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:17:58]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:17:58]     Rot   : Landscape
+[uDD::Err][2020-05-22 12:17:58] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:58] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:58]     ID    : 1
+[uDD::Log][2020-05-22 12:17:58]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:17:58]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:17:58]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-22 12:17:58] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:59] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:17:59] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:17:59]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:17:59]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:17:59] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:17:59] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:59]     ID    : 0
+[uDD::Log][2020-05-22 12:17:59]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:17:59]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:17:59]     Rot   : Landscape
+[uDD::Err][2020-05-22 12:17:59] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:17:59] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:17:59]     ID    : 1
+[uDD::Log][2020-05-22 12:17:59]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:17:59]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:17:59]     Rot   : Portrait (flipped)
+[uDD::Err][2020-05-22 12:17:59] Duplicator::Initialize() => Access denied.
+[uDD::Log][2020-05-22 12:18:00] MonitorManager::Reinitialize()
+[uDD::Log][2020-05-22 12:18:00] Graphics Card [0] : NVIDIA GeForce RTX 2070 SUPER
+[uDD::Log][2020-05-22 12:18:00]   > Monitor[0] : \\.\DISPLAY2
+[uDD::Log][2020-05-22 12:18:00]   > Monitor[1] : \\.\DISPLAY1
+[uDD::Log][2020-05-22 12:18:00] Graphics Card [1] : Microsoft Basic Render Driver
+[uDD::Log][2020-05-22 12:18:00] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:18:00]     ID    : 0
+[uDD::Log][2020-05-22 12:18:00]     Size  : (2560, 1440)
+[uDD::Log][2020-05-22 12:18:00]     DPI   : (108, 108)
+[uDD::Log][2020-05-22 12:18:00]     Rot   : Landscape
+[uDD::Log][2020-05-22 12:18:00] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-22 12:18:00] Monitor::Initialized() =>
+[uDD::Log][2020-05-22 12:18:00]     ID    : 1
+[uDD::Log][2020-05-22 12:18:00]     Size  : (1080, 1920)
+[uDD::Log][2020-05-22 12:18:00]     DPI   : (80, 81)
+[uDD::Log][2020-05-22 12:18:00]     Rot   : Portrait (flipped)
+[uDD::Log][2020-05-22 12:18:00] Duplicator::Initialize() => OK.
+[uDD::Log][2020-05-22 12:19:53] Duplicator::UpdateMoveRects() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Log][2020-05-22 12:19:53] Duplicator::UpdateDirtyRects() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Log][2020-05-22 12:19:53] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Err][2020-05-22 12:19:53] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Log][2020-05-22 12:19:53] Duplicator::Duplicate() => DXGI_ERROR_ACCESS_LOST.
+[uDD::Err][2020-05-22 12:19:53] Duplicator::Duplicate() => DXGI_ERROR_INVALID_CALL.
+[uDD::Log][2020-05-22 12:19:54] Stop
