@@ -6,10 +6,10 @@ public class AttachObjectToHand : MonoBehaviour
 {
     public Transform source;
     public bool keepAttached = true;
-    // Start is called before the first frame update
     void Start()
     {
         
+    // Start is called before the first frame update
     }
 
     // Update is called once per frame
@@ -17,5 +17,15 @@ public class AttachObjectToHand : MonoBehaviour
     {
         if(keepAttached)
             this.transform.SetPositionAndRotation(source.position, source.rotation);
+    }
+
+    public void Attach()
+    {
+        keepAttached = true;
+    }
+
+    public void Dettach()
+    {
+        keepAttached = false;
     }
 }
