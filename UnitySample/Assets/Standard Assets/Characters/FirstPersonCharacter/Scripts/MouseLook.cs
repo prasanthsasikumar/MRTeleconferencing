@@ -111,5 +111,20 @@ namespace UnityStandardAssets.Characters.FirstPerson
             return q;
         }
 
+        //NEW METHOD ADDED
+        public bool Mouselocked()
+        {
+            if (Cursor.lockState == CursorLockMode.Locked)
+            {
+                //Debug.Log("Locked");
+                return true;
+            }
+            else
+            {
+                //Debug.Log("unLocked");
+                return false;
+            }
+        }
+
     }
 }
