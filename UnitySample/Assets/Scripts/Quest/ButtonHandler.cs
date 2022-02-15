@@ -24,6 +24,7 @@ public class ButtonHandler : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if(rightControllers[0].TryGetFeatureValue(CommonUsages.primaryButton, out bool ButtonValue))
         {
             if (ButtonValue && !PreviousRightButtonValue)
